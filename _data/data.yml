@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://torris.tech/torris-yin.pdf
 
     languages:
       title: Languages
@@ -76,15 +76,33 @@ education:
           record multiple courses, which accumulated rich experience for him and won 
           unanimous recognition from his classmates.
 
-#experiences:
-#    title: Experiences
-#    info:
-#      - role: Project Manager
-#        time: 2023 - Present
-#        company: ICSIG, Suzhou
-#        details: |
-#          The project is about 5G communication. As the project remains confidential, 
-#          no further details can be revealed at this time.
+experiences:
+    title: Awards
+    info:
+      - role: Lanqiao Cup National for SCM <br> First Prize
+        time: 2023.06
+        company: MIIT Talent Exchange Center
+        details:
+      - role: National Undergraduate Electronics Design Contest <br> First Prize in the Jiangsu Division
+        time: 2023.08
+        company: NUEDC Committee
+        details:
+      - role: National University Students Intelligent Car Race <br> Second Prize in the East China Division
+        time: 2022.08
+        company: Chinese Association of Automation
+        details:
+      - role: Philip K H Wong Foundation Scholarships
+        time: 2022.12
+        company: Philip K H Wong Foundation
+        details:
+      - role: Innovation and Entrepreneurship Scholarship Special Prize
+        time: 2022.12
+        company: Soochow University
+        details:
+      - role: Study Excellence Scholarship First Prize
+        time: 2022.12
+        company: Soochow University
+        details:
 
 certifications:
       title: Certifications
@@ -111,26 +129,26 @@ projects:
     intro: >
       Here are some of the projects he has been involved in. Some projects cannot be disclosed here due to their confidential content.
     assignments:
+      - title: SWISQA
+        link: "#"
+        tagline: "Deep learning solution for segmentation and calculation of skin wounds."
+
       - title: 5G PLA
         link: "#"
         tagline: "The project is about 5G communication security."
-
-      - title: SWISQA
-        link: "#"
-        tagline: "Deep learning solution for segmentation and calculation of irregular skin wounds."
 
 oss:
     title: OSS Contributions
     intro: >
       His research involves many open source projects, and he maintains a good relationship with the open source community. He is a contributor to many open source communities and is committed to realizing a free software ecosystem.
     contributions:
-      - title: srsRAN Project
+      - title: srsRAN
         link: "https://github.com/srsran/srsRAN_Project"
         tagline: "Open source O-RAN 5G CU/DU solution from Software Radio Systems"
 
       - title: OpenAirInterface
         link: "https://gitlab.eurecom.fr/oai/openairinterface5g"
-        tagline: "The fastest growing community and software assets in 5G wireless"
+        tagline: "The fastest growing community and software assets in 5G"
 
       - title: NI RF Data Recording API
         link: "https://github.com/ICSIG/ni-rf-data-recording-api"
