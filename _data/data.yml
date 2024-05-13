@@ -154,27 +154,21 @@ oss:
         link: "https://github.com/ICSIG/ni-rf-data-recording-api"
         tagline: "A free and open-source Python-based API to record Real-World RF data sets in an easy and automated way."
 
-#publications:
-#    title: Publications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
-#    papers:
-#      - title: The Art of Computer Programming
-#        link: "#"
-#        authors: Donald E. Knuth
-#        conference: Addison-Wesley, 1968
-#
-#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#        link: "#"
-#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-#
-#      - title: A syntax directed compiler for Algol 60
-#        link: "#"
-#        authors: Edgar T. Irons
-#        conference: "Comm. ACM 4 (1961), 51–55"
+publications:
+    title: Teaching
+    intro: |
+      He is dedicated to offering high-quality professional courses to individuals. 
+      His courses have received widespread recognition.
+    papers:
+      - title: 蓝桥杯直通国赛班（单片机组）
+        link: "https://www.lanqiao.cn/courses/24680"
+        authors: 2024
+        conference: 蓝桥云课
+
+      - title: TI MSPM0快速入门课
+        link: "https://www.bilibili.com/video/BV1ZA4m1w7nW"
+        authors: 2024
+        conference: Bilibili
 
 skills:
     title: Skills &amp; Proficiency
@@ -199,4 +193,4 @@ skills:
         level: 60%
 
 footer: >
-    © 2023 Torris Yin | <a href="https://beian.miit.gov.cn/" target="_blank">苏ICP备2023006673号-2</a>
+    © 2024 Torris Yin | <a href="https://beian.miit.gov.cn/" target="_blank">苏ICP备2023006673号-2</a>
